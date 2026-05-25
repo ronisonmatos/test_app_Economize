@@ -1,7 +1,9 @@
 from pages.opcoesMenu_page import OpcoesMenuPage
 from pages.onboarding_page import OnboardingPage
 from core.logger import logger
+import pytest
 
+@pytest.mark.mobile
 def test_completo(driver):
 
     logger.info("Iniciando Testes")
