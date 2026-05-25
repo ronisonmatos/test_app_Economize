@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Logs
+logs/
+*.log
+
+# Reports
+reports/
+*.html
+*.xml
+
+# Screenshots
+screenshots/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Appium
+appium.log
+
+# Pytest
+.pytest_cache/
+
+# Android
+*.apk
+*.aab
+
+# Environment Variables
+.env
+
+# Temporary files
+temp/
+tmp/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+
+# Emulator
+*.lock
