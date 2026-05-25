@@ -15,7 +15,7 @@ Projeto de automação mobile utilizando:
 # Estrutura do Projeto
 
 ```bash
-qa_mobile_economize/
+test_app_Economize/
 │
 ├── tests/
 │   └── test_onboarding.py
